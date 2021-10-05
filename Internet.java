@@ -1,6 +1,5 @@
 class Internet{
-  String provider=null;
-  static int speed=0;
+  String provider="Jio";
     Internet()
     {
       System.out.println("Invoked Internet Constructor");
