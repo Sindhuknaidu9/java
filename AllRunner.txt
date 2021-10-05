@@ -1,0 +1,10 @@
+class AllRunner{
+	public static void main(String[] args){
+		Printer.Prints();
+		Speaker.Sound();
+		Camera.Clicks();
+		SpeakerRunner();
+		CameraRunner();
+		PrinterRunner();
+	} 
+} 
