@@ -1,6 +1,6 @@
 class MonitorStarter{
 
-	public static void main(String[] cfe)
+	public static void main(String[] value)
 	{
 		Monitor monitor=new Monitor("HP");
 		System.out.println(monitor);
