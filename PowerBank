@@ -1,0 +1,13 @@
+class PowerBank{
+    String brand = "eva";
+	int price=30;
+	int quantity=150;
+	String color="blue";
+
+    PowerBank()
+    {
+    System.out.println("Invoked PowerBank Constructor");
+    }
+     
+
+}
