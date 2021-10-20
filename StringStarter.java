@@ -4,6 +4,9 @@ class StringStarter{
 	{
 		String company=new String("ECS");
 		System.out.println(company);
+		
+		String myName=new String("sindhu");
+		System.out.println(myName);
 
 		char[] product={'H','R','I','S'};
 		String name=new String(product);
